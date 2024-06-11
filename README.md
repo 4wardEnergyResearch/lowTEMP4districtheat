@@ -107,8 +107,8 @@ To get a local copy up and running, follow these simple steps:
 #### 1. Clone the Repository
 First, you need to clone the repository from GitHub to your local machine. Open your command line interface (CLI) and run the following command:
 ```bash
-git clone --depth=1 https://github.com/4wardEnergyResearch/lT4dh.git
-cd lT4dh
+git clone --depth=1 https://github.com/4wardEnergyResearch/lowTEMP4districtheat.git
+cd lowTEMP4districtheat
 ```
 #### 2. Set Up a Virtual Environment (Recommended)
 It's recommended to use a Python virtual environment to avoid conflicts with other packages and manage dependencies efficiently. If you don't have virtualenv installed, you can install it using pip:
@@ -261,16 +261,16 @@ This project made use of the following resources:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/4wardEnergyResearch/lT4dh.svg?style=for-the-badge
-[contributors-url]: https://github.com/4wardEnergyResearch/lT4dh/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/4wardEnergyResearch/lT4dh.svg?style=for-the-badge
-[forks-url]: https://github.com/4wardEnergyResearch/lT4dh/network/members
-[stars-shield]: https://img.shields.io/github/stars/4wardEnergyResearch/lT4dh.svg?style=for-the-badge
-[stars-url]: https://github.com/4wardEnergyResearch/lT4dh/stargazers
-[issues-shield]: https://img.shields.io/github/issues/4wardEnergyResearch/lT4dh.svg?style=for-the-badge
-[issues-url]: https://github.com/4wardEnergyResearch/lT4dh/issues
-[license-shield]: https://img.shields.io/github/license/4wardEnergyResearch/lT4dh.svg?style=for-the-badge
-[license-url]: https://github.com/4wardEnergyResearch/lT4dh/blob/master/COPYING.txt
+[contributors-shield]: https://img.shields.io/github/contributors/4wardEnergyResearch/lowTEMP4districtheat.svg?style=for-the-badge
+[contributors-url]: https://github.com/4wardEnergyResearch/lowTEMP4districtheat/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/4wardEnergyResearch/lowTEMP4districtheat.svg?style=for-the-badge
+[forks-url]: https://github.com/4wardEnergyResearch/lowTEMP4districtheat/network/members
+[stars-shield]: https://img.shields.io/github/stars/4wardEnergyResearch/lowTEMP4districtheat.svg?style=for-the-badge
+[stars-url]: https://github.com/4wardEnergyResearch/lowTEMP4districtheat/stargazers
+[issues-shield]: https://img.shields.io/github/issues/4wardEnergyResearch/lowTEMP4districtheat.svg?style=for-the-badge
+[issues-url]: https://github.com/4wardEnergyResearch/lowTEMP4districtheat/issues
+[license-shield]: https://img.shields.io/github/license/4wardEnergyResearch/lowTEMP4districtheat.svg?style=for-the-badge
+[license-url]: https://github.com/4wardEnergyResearch/lowTEMP4districtheat/blob/master/COPYING.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/4ward-energy-research-gmbh
 [product-screenshot]: images/visualisation.png 
