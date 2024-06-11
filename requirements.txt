@@ -1,0 +1,14 @@
+argparse
+importlib
+matplotlib
+mljar-supervised
+networkx
+numpy
+openpyxl
+pandas
+pathlib
+scikit-learn
+scipy
+statistics
+termcolor
+tk

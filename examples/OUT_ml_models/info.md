@@ -1,0 +1,1 @@
+For each consumer, an ML model is stored here. 'ml_model_results.xlsx' contains goodness-of-fit information. No exemplary data is provided due to data protection reasons.

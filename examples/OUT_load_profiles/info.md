@@ -1,0 +1,1 @@
+The "generic" folder contains generic load profiles from the HOTMAPS project (Pezzutto, S. et al., 2018. Hotmaps Project, D2.3 WP2 Report – Open Data Set for the EU28, www.hotmaps-project.eu).This data is used to compute individual load profiles for each consumer. These are saved in the "individual" subfolder.

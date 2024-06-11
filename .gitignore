@@ -1,0 +1,10 @@
+Archiv
+Dokumentation/
+.vscode/
+.mypy_cache
+*.ai
+*.
+Berechnung der synthetischen Daten.xlsx
+__pycache__
+AutoML_*/
+~$*
