@@ -232,8 +232,7 @@ Additional information about the project structure can be found in the `info.md`
 
 <!-- CONTACT -->
 ## Contact
-**TBD**
-Your Name - office@4wardenergy.at
+Stefan Janisch - [stefan.janisch@4wardenergy.at](mailto:stefan.janisch@4wardenergy.at)
 
 [Project website](https://www.4wardenergy.at/en/references/lowtemp4districtheat)
 
